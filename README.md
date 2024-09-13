@@ -1,5 +1,7 @@
 # Writing AI Conference Papers: A Handbook for Beginners
 
+[hzwer](https://github.com/hzwer); [DingXiaoH](https://github.com/DingXiaoH)
+
 Crafting a research manuscript can pose significant challenges for novices, particularly when time is scarce before the deadline and the authors lack experience in academic submissions. An ill-prepared manuscript can be a source of distress for both collaborators and readers, frequently leading to rejection or necessitating substantial revisions. In this article, we'll share some tips for beginners who want to write AI conference papers. Our goal is for this article to be a guide for beginners, making it easier to share academic achievements.
 
 [PDF version](https://drive.google.com/file/d/1hbQ8qvVPUndNRSwK2Hq6wLwh8sxapi95/view?usp=sharing)
