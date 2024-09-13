@@ -235,3 +235,15 @@ We have listed some common negative reviews and suggested revisions (in italics)
 > Review process is highly random. But there is one golden rule that withstands the test of time and randomness - **badly written papers get bad reviews. Period.** It doesn’t matter if the idea is good, result is good, citations are good. Not at all. Writing is critical — and this is ironic because engineers are the worst trained writers among all disciplines in a university. You need to discipline yourself: leave time for writing, think deeply about writing, and write it over and over again till it’s as polished as you can think of. (Fei-Fei Li)
 
 There are many papers that stayed on arXiv after being rejected and now have a huge impact [1](https://arxiv.org/abs/1503.02531);[2](https://arxiv.org/abs/1606.06160). Papers will be significantly improved throughout the process. If this process helps you produce a truly good paper, you can benefit from and be proud of it for many years to come.
+
+### citation
+We found that arXiv does not accept this article. In case you need to cite it, you can use the following format.
+```
+@misc{WritingAIPaper2024,
+    author = {Zhewei Huang and Xiaohan Ding},
+    title = {Writing AI Conference Papers: A Handbook for Beginners},
+    howpublished = {\url{https://github.com/hzwer/WritingAIPaper}},
+    year = {2024},
+    month = {9},
+}
+```
