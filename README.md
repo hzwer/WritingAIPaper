@@ -2,7 +2,7 @@
 
 Author: [hzwer](https://github.com/hzwer), [DingXiaoH](https://github.com/DingXiaoH)
 
-[PDF version (Google Drive)](https://drive.google.com/file/d/1hbQ8qvVPUndNRSwK2Hq6wLwh8sxapi95/view?usp=sharing)
+[PDF version (Google Drive)](https://drive.google.com/file/d/1hbQ8qvVPUndNRSwK2Hq6wLwh8sxapi95/view?usp=sharing); [Full Screen](https://github.com/hzwer/AIPaperWriting/blob/main/README.md)
 
 Crafting a research manuscript can pose significant challenges for novices, particularly when time is scarce before the deadline and the authors lack experience in academic submissions. An ill-prepared manuscript can be a source of distress for both collaborators and readers, frequently leading to rejection or necessitating substantial revisions. In this article, we'll share some tips for beginners who want to write AI conference papers. Our goal is for this article to be a guide for beginners, making it easier to share academic achievements.
 
@@ -89,7 +89,7 @@ d. Consider using a "page one figure" to highlight the most important aspects of
 ## Readability Improvement
 > "Writing endures through the ages, its merits and faults known only to the author's heart. (文章千古事，得失寸心知）"---Du Fu
 
-Intelligent assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [Yuewen（跃问）](https://yuewen.cn/chats/new) or [Doubao（豆包）](https://www.doubao.com/chat/). Details that can be automatically processed by tools are not included in our discussion.
+Intelligent assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [跃问](https://yuewen.cn/chats/new) or [豆包](https://www.doubao.com/chat/). Details that can be automatically processed by tools are not included in our discussion.
 
 This section measures the readability of articles using the following concepts: logical strength, defensibility, confusion time, and information density. Based on these concepts, some practical suggestions and techniques are described to improve the readability of papers.
 
