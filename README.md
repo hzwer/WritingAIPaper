@@ -242,6 +242,8 @@ We found that arXiv does not accept this article. In case you need to cite it, y
 @misc{WritingAIPaper2024,
     author = {Zhewei Huang and Xiaohan Ding},
     title = {Writing AI Conference Papers: A Handbook for Beginners},
+    publisher = {GitHub},
+    journal = {GitHub repository},
     howpublished = {\url{https://github.com/hzwer/WritingAIPaper}},
     year = {2024},
     month = {9},
