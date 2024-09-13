@@ -179,13 +179,13 @@ As this manuscript stands without the benefit of peer review, it undoubtedly con
 
 In the Appendix, several topics are covered:
 
-AI Paper Production and Publication: It outlines the process of paper submission, review, and publication in AI conferences.
+[AI Paper Production and Publication](https://github.com/hzwer/WritingAIPaper?tab=readme-ov-file#ai-paper-production-and-publication): It outlines the process of paper submission, review, and publication in AI conferences.
 
-Checklist for Last Few Hours: It provides a checklist to ensure the paper is in order before submission.
+[Checklist for Last Few Hours](https://github.com/hzwer/WritingAIPaper/tree/main?tab=readme-ov-file#checklist-for-last-few-hours): It provides a checklist to ensure the paper is in order before submission.
 
-Common Negative Review Comments: It lists common criticisms reviewers might have and suggestions for revision.
+[Common Negative Review Comments](https://github.com/hzwer/WritingAIPaper/tree/main?tab=readme-ov-file#common-negative-review-comments): It lists common criticisms reviewers might have and suggestions for revision.
 
-If the Paper Is Not Accepted: It offers advice on dealing with rejection and improving the paper for future submissions.
+[If the Paper Is Not Accepted](https://github.com/hzwer/WritingAIPaper/tree/main?tab=readme-ov-file#if-the-paper-is-not-accepted): It offers advice on dealing with rejection and improving the paper for future submissions.
 ### AI Paper Production and Publication
 
 This section mainly introduces the process of producing papers and the review process. A conference paper usually runs about eight pages in a two-column layout, or over ten pages in a single-column layout, based on the conference's specifications. Authors prepare and submit their paper along with supplementary materials like code and demo videos by the given deadline.
