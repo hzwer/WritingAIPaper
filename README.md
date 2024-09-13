@@ -87,8 +87,146 @@ c. Knuth: *Keep the reader upper-most in your mind.*
 d. Consider using a "page one figure" to highlight the most important aspects of the paper and catch the reader's attention.
 
 ## Readability Improvement
-*"Writing endures through the ages, its merits and faults known only to the author's heart.(文章千古事，得失寸心知）"---Du Fu*
+> "Writing endures through the ages, its merits and faults known only to the author's heart. (文章千古事，得失寸心知）"---Du Fu
 
-Intelligent assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [Yuewen](https://yuewen.cn/chats/new) or [Doubao](https://www.doubao.com/chat/). Details that can be automatically processed by tools are not included in our discussion.
+Intelligent assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [Yuewen（跃问）](https://yuewen.cn/chats/new) or [Doubao（豆包）](https://www.doubao.com/chat/). Details that can be automatically processed by tools are not included in our discussion.
 
 This section measures the readability of articles using the following concepts: logical strength, defensibility, confusion time, and information density. Based on these concepts, some practical suggestions and techniques are described to improve the readability of papers.
+
+### Enhance Logical Strength
+***Take-away: Do not misuse or abuse connectives.***
+
+In academic writing, logical coherence is more crucial than elegant vocabulary. Logical coherence is rooted in the logic itself, not in the connectives. We should view connectives as enhancements that smooth language, rather than using them to artificially construct sentence logic. Misalignment between connectives and actual logic can be confusing and greatly diminish readability. Here are a few specific examples:
+
+> We argue that problem A is critical. To this end, we propose method B.
+
+"To this end" refers to which end? In fact, the previous context only presents a viewpoint without specifying any actions or goals, so the use of this connective is inherently incorrect. Connectives must be grammatically correct.
+
+> The system comprises three modules. First of all, Module A is .... Second, Module B is .... Last but not least, Module C is ....
+
+Here, several connectives impose a certain order on these three things that originally have no order relationship. We should not use connectives to create logical relationships. It would be better to introduce the three modules separately.
+
+### Consider Defensibility
+When we write, we should think about how readers might find fault with every sentence we write. If they believe something that seems wrong, they might doubt the whole paper. To enhance the paper's trustworthiness, we need to minimize the likelihood of being challenged.
+
+***Take-away: Make statements based on references and facts***
+
+When we write "Problem A is a pain point in this field and has not been solved yet," we should consider that the reader may ask, "Why is this a pain point? How serious are the consequences? Does this consequence have a significant impact on the final performance?" This requires the addition of appropriate references.
+
+> It is reported that problem A results in ... [1,2,3] and ... [4,5], which are critical to ... because ... [6, 7, 8].
+
+When discussing the results of a paper, it is even more necessary to be rigorous:
+
+> The performance improves, which is attributed to the fact that XXX...
+
+The evidence should be presented prominently;
+
+> The improvement may be explained by the fact that XXX...
+ 
+Some indirect evidence such as visualizations can be shown.
+
+Be as objective as possible and avoid exaggerating.
+
+### Shorten Confusion Time
+"Confusion time" is the sum of the time readers spend on each "hmm, what's this?" to "oh, I get it" moment during the reading process. The shorter the total confusion time of a paper, the higher the readability, and the more peaceful the reader will be.
+
+***Take-away: Explain a concept as close as possible when it is proposed.***
+It is recommended to directly explain the essence of a component after giving its name, for example, "we propose XXX, which is implemented with a two-layer multilayer perceptron~(MLP)". If a concept is not easy to explain, it can be supplemented by referring to literature.
+
+***Take-away: Resolve  relative pronoun ambiguity.***
+If it is not possible to make a long sentence completely unambiguous, it should be broken down into short sentences. A large proportion of the readership is not native speakers, and fancy sentence structures do not earn extra points.
+
+***Take-away: Frequently use topic sentences, preferably at the beginning of paragraphs.***
+The reader may not be able to quickly understand all the details, at which point the main information can be quickly obtained by the reader through the topic sentences, to avoid affecting the overall reading experience.
+
+### Increase Information Density
+"Information density" refers to the efficiency with which text provides effective information to readers. Low information density may cause readers to lose focus and question the the expertise.
+
+***Take-away: Get to the point as soon as possible.***
+The beginning of each section may talk about the history. Try not to be lengthy. "Do not write irrelevant content, nor should you write about things that most readers are already familiar with." Discussing the development of human writing skills, would certainly deter the vast majority of our readers.
+
+***Take-away: Both text and charts should be appropriately detailed or concise.***
+Use an appropriate layout that balances text and visuals. Avoid common pitfalls like featuring a large chart with only a few key points highlighted. Or a very long passage describing the experimental details and hyper-parameters, which should really be placed in the appendix.
+
+***Take-away: Important explanations and elucidations should be as close to the charts as possible.***
+
+The ideal situation is that each chart can be understood independently of the main text. In the caption, try to clearly state the theme and key conclusions. If there are abbreviations in the chart, it is best to have an explanation. 
+
+If you want to emphasize a certain result in Table 5, it is best for the sentence analyzing that result to be on the same page as Table 5, and it is best to have the words "Table 5" before and after that sentence. This is because readers may not carefully read the text you write, but first look at the charts and then look for text related to the content of the charts. When they see a striking result in Table 5 and become curious, they may use the search function in the PDF reader to search for "Table 5". 
+
+Do not expect readers to figure out for themselves from a complex table who should be compared with whom to draw conclusions. We should put the content we want to compare. If such a table is difficult to design, it is worth repeating a certain result~(usually a baseline that needs to be compared with several groups of results) several times, even if it means sacrificing the elegance. No one will reject your paper because the tables are not elegant, but it is very annoying if the table is not clear.
+
+### Detail Checklist
+First and foremost, avoid making mistakes. Prioritize the rigor of the paper before considering its aesthetics. The following is a checklist that can help authors improve their writing:
+
+- [ ] Go through the charts to ensure the story is complete. Strive to improve the quality of the charts and make them self-explanatory.
+- [ ] Check for any inconsistencies in symbols, abbreviations, and references.
+- [ ] Whether the level of detail in the text and charts is appropriate?
+- [ ] Place important information in prominent positions.
+- [ ] Can the text and legends in the figure be larger?
+- [ ] Can the understanding speed of tables be improved by using methods such as column division, bolding text, and deleting redundancy?
+
+We will list more minor items in the Appendix.
+## Conclusion
+As this manuscript stands without the benefit of peer review, it undoubtedly contains numerous imperfections. The concepts presented herein are primarily derived from widely-shared community knowledge, which we have endeavored to synthesize and simplify for the benefit of newcomers to the field. Our goal is to provide a concise yet comprehensive guide that can ease the learning curve for those embarking on the journey of writing AI conference papers. If this document serves as a beacon of clarity and direction for any reader, we would consider our efforts successful and our objectives fulfilled.
+
+## Appendix
+
+In the Appendix, several topics are covered:
+
+AI Paper Production and Publication: It outlines the process of paper submission, review, and publication in AI conferences.
+
+Checklist for Last Few Hours: It provides a checklist to ensure the paper is in order before submission.
+
+Common Negative Review Comments: It lists common criticisms reviewers might have and suggestions for revision.
+
+If the Paper Is Not Accepted: It offers advice on dealing with rejection and improving the paper for future submissions.
+### AI Paper Production and Publication
+
+This section mainly introduces the process of producing papers and the review process. A conference paper usually runs about eight pages in a two-column layout, or over ten pages in a single-column layout, based on the conference's specifications. Authors prepare and submit their paper along with supplementary materials like code and demo videos by the given deadline.
+
+Provided there are no critical oversights, such as neglecting to anonymize the submission, substantial formatting issues, or surpassing the page limit — any of which could result in an immediate rejection (known as a "desk reject") — the paper proceeds to the review phase. Following approximately two months, authors receive feedback from typically three reviewers in the form of comments and an overall score for their paper. Many of these reviewers have published work in related domains and might be cited in the submitted paper. With the initial review outcomes, authors must craft a brief rebuttal, generally one page, to address queries or provide additional findings. Roughly half of the papers are withdrawn during this rebuttal phase. Reviewers then deliberate for a week or two (commonly on a private platform) based on the rebuttal, indicating whether their concerns have been alleviated and discussing the paper's merits. Usually, reviewers align on a positive or negative stance, though occasionally, the area chair decides.
+
+The final acceptance outcome necessitates waiting for approximately another month, after which it will be revealed via the email system. Typically, acceptance rates range from one-sixth to one-quarter of submitted manuscripts. Authors then revise their work based on reviewer feedback before submitting the final, camera-ready version for publication. The majority of papers, however, face rejection and are returned to the authors. These authors may opt to resubmit following the previously mentioned process or decide to discontinue work on the paper. It is worth noting that most papers undergo an extensive period of refinement and revision, colloquially dubbed the "Fibonacci Submission Approach."
+
+### Checklist for Last Few Hours
+- [ ] Search for question marks to check for latex errors.
+- [ ] Make sure that all charts are mentioned in the main text and that the order of mentioning matches the order in which the charts appear.
+- [ ] The caption is very noticeable. Avoid grammatical errors, and it is recommended to use a period.
+- [ ] Vectorize the charts. 
+- [ ] Check that all formulas are complete, they are easily overlooked in the editing process.
+- [ ] Go through all the subtitles and unify the capitalization style.
+- [ ] Confirm that there are no figures outside the main body pages.
+- [ ] Check for anonymity, may need to delete acknowledgments.
+
+### Common Negative Review Comments
+We have listed some common negative reviews and suggested revisions (in italics).
+
+- Criticizing the author for being unprofessional: Important references are missing; the paper structure is messy, and some essential elements are lacking, such as not submitting supplementary video results for a video-related study; the experimental setup is significantly different from previous work. 
+
+*Refer to the reference list of recent papers to fill in the gaps, and the configuration should be aligned.*
+
+- Questioning the validity: The reported results do not conform to common sense and are not credible; exaggerating one's own achievements or making some obviously incorrect assertions; there are flaws in the experimental setup or argumentation. 
+
+*Conduct more experiments, refine the expression, and strive for rigor.*
+
+- Not respecting previous work: Not citing the latest results, conducting low-benchmark experiments; excessively demeaning the work of predecessors; confusing one's own work with the contributions of predecessors. 
+
+*Compare more with existing work tables, conduct more paper research, and if you say others have done a poor job, provide evidence.*
+
+- Lack of novelty: The story is not well written, the logic is not clear, or most of it is known knowledge; feeling that the work is incremental and does not contribute much. In other words, the effect is not impressive.
+
+*Discuss with some peers, and highlight the strengths.*
+
+- Poor paper presentation quality: Many grammatical errors, poor writing, poor English level; difficult to understand, lacking some details. 
+
+*Use AI tools or Grammarly to revise, and ask friends for help to read.*
+
+- Disagreement on the approach: Not approving of the experimental design or not believing in this technical route.
+
+*Conduct more experiments or cite similar expressions in relevant literature to support your argument, and try to win over other reviewers.*
+
+### If the Paper Is Not Accepted
+> Review process is highly random. But there is one golden rule that withstands the test of time and randomness - **badly written papers get bad reviews. Period.** It doesn’t matter if the idea is good, result is good, citations are good. Not at all. Writing is critical — and this is ironic because engineers are the worst trained writers among all disciplines in a university. You need to discipline yourself: leave time for writing, think deeply about writing, and write it over and over again till it’s as polished as you can think of. (Fei-Fei Li)
+
+There are many papers that stayed on arXiv after being rejected and now have a huge impact [1](https://arxiv.org/abs/1503.02531)[2](https://arxiv.org/abs/1606.06160). Papers will be significantly improved throughout the process. If this process helps you produce a truly good paper, you can benefit from and be proud of it for many years to come.
