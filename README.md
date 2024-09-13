@@ -109,7 +109,7 @@ Here, several connectives impose a certain order on these three things that orig
 ### Consider Defensibility
 When we write, we should think about how readers might find fault with every sentence we write. If they believe something that seems wrong, they might doubt the whole paper. To enhance the paper's trustworthiness, we need to minimize the likelihood of being challenged.
 
-***Take-away: Make statements based on references and facts***
+***Take-away: Make statements based on references and facts.***
 
 When we write "Problem A is a pain point in this field and has not been solved yet," we should consider that the reader may ask, "Why is this a pain point? How serious are the consequences? Does this consequence have a significant impact on the final performance?" This requires the addition of appropriate references.
 
@@ -131,21 +131,26 @@ Be as objective as possible and avoid exaggerating.
 "Confusion time" is the sum of the time readers spend on each "hmm, what's this?" to "oh, I get it" moment during the reading process. The shorter the total confusion time of a paper, the higher the readability, and the more peaceful the reader will be.
 
 ***Take-away: Explain a concept as close as possible when it is proposed.***
+
 It is recommended to directly explain the essence of a component after giving its name, for example, "we propose XXX, which is implemented with a two-layer multilayer perceptron~(MLP)". If a concept is not easy to explain, it can be supplemented by referring to literature.
 
 ***Take-away: Resolve  relative pronoun ambiguity.***
+
 If it is not possible to make a long sentence completely unambiguous, it should be broken down into short sentences. A large proportion of the readership is not native speakers, and fancy sentence structures do not earn extra points.
 
 ***Take-away: Frequently use topic sentences, preferably at the beginning of paragraphs.***
+
 The reader may not be able to quickly understand all the details, at which point the main information can be quickly obtained by the reader through the topic sentences, to avoid affecting the overall reading experience.
 
 ### Increase Information Density
 "Information density" refers to the efficiency with which text provides effective information to readers. Low information density may cause readers to lose focus and question the the expertise.
 
 ***Take-away: Get to the point as soon as possible.***
+
 The beginning of each section may talk about the history. Try not to be lengthy. "Do not write irrelevant content, nor should you write about things that most readers are already familiar with." Discussing the development of human writing skills, would certainly deter the vast majority of our readers.
 
 ***Take-away: Both text and charts should be appropriately detailed or concise.***
+
 Use an appropriate layout that balances text and visuals. Avoid common pitfalls like featuring a large chart with only a few key points highlighted. Or a very long passage describing the experimental details and hyper-parameters, which should really be placed in the appendix.
 
 ***Take-away: Important explanations and elucidations should be as close to the charts as possible.***
