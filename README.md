@@ -85,3 +85,10 @@ b. Respect the work of predecessors, and affirm historical contributions before 
 c. Knuth: *Keep the reader upper-most in your mind.*
 
 d. Consider using a "page one figure" to highlight the most important aspects of the paper and catch the reader's attention.
+
+## Readability Improvement
+*"Writing endures through the ages, its merits and faults known only to the author's heart.(文章千古事，得失寸心知）"---Du Fu*
+
+Intelligent assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [Yuewen](https://yuewen.cn/chats/new) or [Doubao](https://www.doubao.com/chat/). Details that can be automatically processed by tools are not included in our discussion.
+
+This section measures the readability of articles using the following concepts: logical strength, defensibility, confusion time, and information density. Based on these concepts, some practical suggestions and techniques are described to improve the readability of papers.
