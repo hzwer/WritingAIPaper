@@ -1,10 +1,11 @@
 # Writing AI Conference Papers: A Handbook for Beginners
 
-[hzwer](https://github.com/hzwer); [DingXiaoH](https://github.com/DingXiaoH)
+Author: [hzwer](https://github.com/hzwer), [DingXiaoH](https://github.com/DingXiaoH)
+
+[PDF version (Google Drive)](https://drive.google.com/file/d/1hbQ8qvVPUndNRSwK2Hq6wLwh8sxapi95/view?usp=sharing)
 
 Crafting a research manuscript can pose significant challenges for novices, particularly when time is scarce before the deadline and the authors lack experience in academic submissions. An ill-prepared manuscript can be a source of distress for both collaborators and readers, frequently leading to rejection or necessitating substantial revisions. In this article, we'll share some tips for beginners who want to write AI conference papers. Our goal is for this article to be a guide for beginners, making it easier to share academic achievements.
 
-[PDF version](https://drive.google.com/file/d/1hbQ8qvVPUndNRSwK2Hq6wLwh8sxapi95/view?usp=sharing)
 
 ## Introduction
 
@@ -22,7 +23,7 @@ This section outlines writing an AI paper from scratch, covering structure, core
 The typical structure of a paper includes 1. an abstract, 2. an introduction, and 3. the main body, which encompasses sections such as related work, methodology, experiments, discussion, conclusion, and references. We can break down this structure into three levels. At each level, you should aim to convey a comprehensive research narrative. Each level serves as an expansion of the preceding one. With this understanding, let's explore how to effectively present a research story. For those who are starting out, it's advisable to focus on completing the main body of the paper first.
 
 ### Find the Core Idea
-You may have interesting findings and experimental results, but you're unsure how to define the core theme. \textit{The key contribution of most published papers falls into exactly one out of the following three categories~\cite{nowozin2015ten}:}
+You may have interesting findings and experimental results, but you're unsure how to define the core theme. *The key contribution of most published papers falls into exactly one out of the following three categories (from [Nowozion](https://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-1.html)):*
 
 *Insight: you have an explanation for something that is already there.*
 
@@ -30,7 +31,7 @@ You may have interesting findings and experimental results, but you're unsure ho
 
 *Capability: you can do something that could not be done before.*
 
-Identify the core advantages of your work and emphasize them early in your paper. You can further expand the overall \textbf{novelty} from other aspects as well. Key research topics, efficient solutions, and innovative technical contributions are the primary elements that contribute to a paper's novelty. For instance, numerous early influential works of deep learning emerged from foundational model research due to their potential to impact the entire field. Techniques such as "Batch Normalization"~\cite{ioffe2015batch} and "Residual Learning"~\cite{he2016deep} are esteemed for their effectiveness.   By emphasizing the novelty of your work, you'll be able to discern which aspects are worth the effort and which are inconsequential details.
+Identify the core advantages of your work and emphasize them early in your paper. You can further expand the overall **novelty** from other aspects as well. Key research topics, efficient solutions, and innovative technical contributions are the primary elements that contribute to a paper's novelty. For instance, numerous early influential works of deep learning emerged from foundational model research due to their potential to impact the entire field. Techniques such as "Batch Normalization" and "Residual Learning" are esteemed for their effectiveness. By emphasizing the novelty of your work, you'll be able to discern which aspects are worth the effort and which are inconsequential details.
 
 *We suggest a short article titled [Novelty in Science](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143).*
 
@@ -53,7 +54,7 @@ It may also be necessary to supplement your work with additional experiments if 
 Many readers will initially assess the method's effectiveness by examining the results before deciding to read the entire paper. They'll look to see if your contribution aligns with the experimental findings. Even with strong confidence in your method's efficacy, you'll likely need additional comparative and ablation experiments. It's important to create more tables and visuals, selecting the most significant aspects to present. Honesty and objectivity are crucial; overstating claims is particularly undesirable. If concerned about overclaiming, discussing with peers is advisable.
 
 ### Write An Introduction
-Regarding the structure of the introduction, we directly quote from the textbook~\cite{swales2004academic,kallestinova2011write}:
+Regarding the structure of the introduction, we directly quote from the textbook (from [Elena](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178846/)):
 
 **Move 1. Establish a research territory**
 
