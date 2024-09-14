@@ -13,7 +13,7 @@ The GPU cluster has been running for half a year, and you feel that the results 
 
 In this article, we will discuss the aspects related to writing conference papers, with a focus on common pitfalls, catering to novices. Our article mainly consists of two parts: completing a paper and refining its details. We aim to provide practical guidance that will enable novices to navigate the complexities of academic writing and contribute to the field with clarity and confidence. Sincerely, we recommend the [Resource List of Writing Tips](https://vision.sjtu.edu.cn/writing.html) curated by Professor Chao Ma.
 
-## Build A Paper From Scratch
+## Build a Paper from Scratch
 
 This section outlines writing an AI paper from scratch, covering structure, core idea, framework, results, and introduction.
 
@@ -53,7 +53,7 @@ It may also be necessary to supplement your work with additional experiments if 
 
 Many readers will initially assess the method's effectiveness by examining the results before deciding to read the entire paper. They'll look to see if your contribution aligns with the experimental findings. Even with strong confidence in your method's efficacy, you'll likely need additional comparative and ablation experiments. It's important to create more tables and visuals, selecting the most significant aspects to present. Honesty and objectivity are crucial; overstating claims is particularly undesirable. If concerned about overclaiming, discussing with peers is advisable.
 
-### Write An Introduction
+### Write an Introduction
 Regarding the structure of the introduction, we directly quote from the textbook (from [Elena](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178846/)):
 
 **Move 1. Establish a research territory**
@@ -231,7 +231,7 @@ We have listed some common negative reviews and suggested revisions (in italics)
 
 *Conduct more experiments or cite similar expressions in relevant literature to support your argument, and try to win over other reviewers.*
 
-### If the Paper Is Not Accepted
+### If the Paper is Not Accepted
 > Review process is highly random. But there is one golden rule that withstands the test of time and randomness - **badly written papers get bad reviews. Period.** It doesn’t matter if the idea is good, result is good, citations are good. Not at all. Writing is critical — and this is ironic because engineers are the worst-trained writers among all disciplines in a university. You need to discipline yourself: leave time for writing, think deeply about writing, and write it over and over again till it’s as polished as you can think of. (Fei-Fei Li)
 
 There are many papers that stayed on arXiv after being rejected and now have a huge impact [1](https://arxiv.org/abs/1503.02531);[2](https://arxiv.org/abs/1606.06160). Papers will be significantly improved throughout the process. If this process helps you produce a truly good paper, you can benefit from and be proud of it for many years to come.
