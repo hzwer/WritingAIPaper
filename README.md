@@ -132,7 +132,7 @@ Be as objective as possible and avoid exaggerating.
 
 ***Take-away: Explain a concept as close as possible when it is proposed.***
 
-It is recommended to directly explain the essence of a component after giving its name, for example, "we propose XXX, which is implemented with a two-layer multilayer perception (MLP)". If a concept is not easy to explain, it can be supplemented by referring to literature.
+It is recommended to directly explain the essence of a component after giving its name; for example, "We propose XXX, which is implemented with a two-layer multilayer perceptron (MLP)." If a concept is not easy to explain, it can be supplemented by referring to literature.
 
 ***Take-away: Resolve  relative pronoun ambiguity.***
 
