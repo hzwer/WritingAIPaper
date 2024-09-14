@@ -49,7 +49,7 @@ While adhering to the core ideas, start outlining the content you intend to pres
 It may also be necessary to supplement your work with additional experiments if you feel that your experimental rationale lacks rigor. At the same time, it is advisable to conduct thorough literature research, ideally identifying several papers with highly relevant topics. Consider these as potential competitors to your paper and examine them for areas of improvement. Reflect on which aspects would captivate the community and accentuate them, while minimizing the inclusion of clichéd content. 
 
 ### Make the Results More Solid
-***Take-away: Around the contribution statements, conduct a solid analysis in result section.***
+***Take-away: Around the contribution statements, conduct a solid analysis in the result section.***
 
 Many readers will initially assess the method's effectiveness by examining the results before deciding to read the entire paper. They'll look to see if your contribution aligns with the experimental findings. Even with strong confidence in your method's efficacy, you'll likely need additional comparative and ablation experiments. It's important to create more tables and visuals, selecting the most significant aspects to present. Honesty and objectivity are crucial; overstating claims is particularly undesirable. If concerned about overclaiming, discussing with peers is advisable.
 
@@ -132,7 +132,7 @@ Be as objective as possible and avoid exaggerating.
 
 ***Take-away: Explain a concept as close as possible when it is proposed.***
 
-It is recommended to directly explain the essence of a component after giving its name, for example, "we propose XXX, which is implemented with a two-layer multilayer perceptron~(MLP)". If a concept is not easy to explain, it can be supplemented by referring to literature.
+It is recommended to directly explain the essence of a component after giving its name, for example, "we propose XXX, which is implemented with a two-layer multilayer perception (MLP)". If a concept is not easy to explain, it can be supplemented by referring to literature.
 
 ***Take-away: Resolve  relative pronoun ambiguity.***
 
@@ -143,7 +143,7 @@ If it is not possible to make a long sentence completely unambiguous, it should 
 The reader may not be able to quickly understand all the details, at which point the main information can be quickly obtained by the reader through the topic sentences, to avoid affecting the overall reading experience.
 
 ### Increase Information Density
-"Information density" refers to the efficiency with which text provides effective information to readers. Low information density may cause readers to lose focus and question the the expertise.
+"Information density" refers to the efficiency with which text provides effective information to readers. Low information density may cause readers to lose focus and question the expertise.
 
 ***Take-away: Get to the point as soon as possible.***
 
@@ -159,7 +159,7 @@ The ideal situation is that each chart can be understood independently of the ma
 
 If you want to emphasize a certain result in Table 5, it is best for the sentence analyzing that result to be on the same page as Table 5, and it is best to have the words "Table 5" before and after that sentence. This is because readers may not carefully read the text you write, but first look at the charts and then look for text related to the content of the charts. When they see a striking result in Table 5 and become curious, they may use the search function in the PDF reader to search for "Table 5". 
 
-Do not expect readers to figure out for themselves from a complex table who should be compared with whom to draw conclusions. We should put the content we want to compare. If such a table is difficult to design, it is worth repeating a certain result~(usually a baseline that needs to be compared with several groups of results) several times, even if it means sacrificing the elegance. No one will reject your paper because the tables are not elegant, but it is very annoying if the table is not clear.
+Do not expect readers to figure out for themselves from a complex table who should be compared with whom to draw conclusions. We should put the content we want to compare. If such a table is difficult to design, it is worth repeating a certain result (usually a baseline that needs to be compared with several groups of results) several times, even if it means sacrificing the elegance. No one will reject your paper because the tables are not elegant, but it is very annoying if the table is not clear.
 
 ### Detail Checklist
 First and foremost, avoid making mistakes. Prioritize the rigor of the paper before considering its aesthetics. The following is a checklist that can help authors improve their writing:
@@ -173,7 +173,7 @@ First and foremost, avoid making mistakes. Prioritize the rigor of the paper bef
 
 We will list more minor items in the Appendix.
 ## Conclusion
-As this manuscript stands without the benefit of peer review, it undoubtedly contains numerous imperfections. The concepts presented herein are primarily derived from widely-shared community knowledge, which we have endeavored to synthesize and simplify for the benefit of newcomers to the field. Our goal is to provide a concise yet comprehensive guide that can ease the learning curve for those embarking on the journey of writing AI conference papers. If this document serves as a beacon of clarity and direction for any reader, we would consider our efforts successful and our objectives fulfilled.
+As this manuscript stands without the benefit of peer review, it undoubtedly contains numerous imperfections. The concepts presented herein are primarily derived from widely shared community knowledge, which we have endeavored to synthesize and simplify for the benefit of newcomers to the field. Our goal is to provide a concise yet comprehensive guide that can ease the learning curve for those embarking on the journey of writing AI conference papers. If this document serves as a beacon of clarity and direction for any reader, we would consider our efforts successful and our objectives fulfilled.
 
 ## Appendix
 
@@ -194,15 +194,15 @@ Provided there are no critical oversights, such as neglecting to anonymize the s
 
 The final acceptance outcome necessitates waiting for approximately another month, after which it will be revealed via the email system. Typically, acceptance rates range from one-sixth to one-quarter of submitted manuscripts. Authors then revise their work based on reviewer feedback before submitting the final, camera-ready version for publication. The majority of papers, however, face rejection and are returned to the authors. These authors may opt to resubmit following the previously mentioned process or decide to discontinue work on the paper. It is worth noting that most papers undergo an extensive period of refinement and revision, colloquially dubbed the "Fibonacci Submission Approach."
 
-### Checklist for Last Few Hours
+### Checklist for the Last Few Hours
 - [ ] Search for question marks to check for latex errors.
-- [ ] Make sure that all charts are mentioned in the main text and that the order of mentioning matches the order in which the charts appear.
+- [ ] Make sure that all charts are mentioned in the main text and that the order of mentions matches the order in which the charts appear.
 - [ ] The caption is very noticeable. Avoid grammatical errors, and it is recommended to use a period.
 - [ ] Vectorize the charts. 
 - [ ] Check that all formulas are complete, they are easily overlooked in the editing process.
 - [ ] Go through all the subtitles and unify the capitalization style.
 - [ ] Confirm that there are no figures outside the main body pages.
-- [ ] Check for anonymity, may need to delete acknowledgments.
+- [ ] Check for anonymity; you may need to delete acknowledgments.
 
 ### Common Negative Review Comments
 We have listed some common negative reviews and suggested revisions (in italics).
@@ -232,7 +232,7 @@ We have listed some common negative reviews and suggested revisions (in italics)
 *Conduct more experiments or cite similar expressions in relevant literature to support your argument, and try to win over other reviewers.*
 
 ### If the Paper Is Not Accepted
-> Review process is highly random. But there is one golden rule that withstands the test of time and randomness - **badly written papers get bad reviews. Period.** It doesn’t matter if the idea is good, result is good, citations are good. Not at all. Writing is critical — and this is ironic because engineers are the worst trained writers among all disciplines in a university. You need to discipline yourself: leave time for writing, think deeply about writing, and write it over and over again till it’s as polished as you can think of. (Fei-Fei Li)
+> Review process is highly random. But there is one golden rule that withstands the test of time and randomness - **badly written papers get bad reviews. Period.** It doesn’t matter if the idea is good, result is good, citations are good. Not at all. Writing is critical — and this is ironic because engineers are the worst-trained writers among all disciplines in a university. You need to discipline yourself: leave time for writing, think deeply about writing, and write it over and over again till it’s as polished as you can think of. (Fei-Fei Li)
 
 There are many papers that stayed on arXiv after being rejected and now have a huge impact [1](https://arxiv.org/abs/1503.02531);[2](https://arxiv.org/abs/1606.06160). Papers will be significantly improved throughout the process. If this process helps you produce a truly good paper, you can benefit from and be proud of it for many years to come.
 
