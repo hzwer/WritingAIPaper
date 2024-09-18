@@ -33,7 +33,7 @@ You may have interesting findings and experimental results, but you're unsure ho
 
 Identify the core advantages of your work and emphasize them early in your paper. This way, readers can read the remaining parts with expectations. You can further expand the overall novelty from other aspects as well. **Novelty seems to be elusive, what is it?** Key research topics, efficient solutions, and innovative technical contributions are the primary elements that contribute to a paper's novelty. For instance, numerous early influential works of deep learning emerged from foundational model research due to their potential to impact the entire field. The RAFT/NeRF methods have attracted a large number of researchers due to their outstanding performance, and they involve a lot of engineering handling beyond their core ideas. Techniques such as "Batch Normalization" and "Residual Learning" are esteemed for their effectiveness. By emphasizing the novelty of your work, you'll be able to discern which aspects are worth the effort and which are inconsequential details.
 
-*We suggest a short article titled [Novelty in Science](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143).*
+> A little squiggle of paint by Picasso can be as beautiful as an intricate painting by Rembrandt. —— [Novelty in Science](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143) (highly recommended for readers)
 
 ***Take-away: Clearly describe the increment over previous methods and find one or two core ideas.***
 
