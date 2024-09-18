@@ -6,7 +6,6 @@ Author: [hzwer](https://github.com/hzwer), [DingXiaoH](https://github.com/DingXi
 
 > Abstract. Crafting a research manuscript can pose significant challenges for novices, particularly when time is scarce before the deadline and the authors lack experience in academic submissions. An ill-prepared manuscript can be a source of distress for both collaborators and readers, frequently leading to rejection or necessitating substantial revisions. In this article, we'll share some tips for beginners who want to write AI conference papers. Our goal is for this article to be a guide for beginners, making it easier to share academic achievements.
 
-
 ## Introduction
 
 The GPU cluster has been running for half a year, and you feel that the results are already significant. You realize that the deadline for an upcoming conference is less than a month away, yet you have only written some course assignment reports. How far in advance should the first draft be completed to avoid missing the deadline? What distinguishes a good research paper from a bad one? What should be done before starting to write? These questions plague you like a nightmare, leaving you staring at the blank Overleaf homepage. Luckily, this article is written for you. Having experienced the agony of rejection and the joy of acceptance, we hope to provide some insights for novices.
@@ -173,10 +172,11 @@ First and foremost, avoid making mistakes. Prioritize the rigor of the paper bef
 
 We will list more minor items in the Appendix.
 ## Conclusion
-As this manuscript stands without the benefit of peer review, it undoubtedly contains numerous imperfections. The concepts presented herein are primarily derived from widely shared community knowledge, which we have endeavored to synthesize and simplify for the benefit of newcomers to the field. Our goal is to provide a concise yet comprehensive guide that can ease the learning curve for those embarking on the journey of writing AI conference papers. If this document serves as a beacon of clarity and direction for any reader, we would consider our efforts successful and our objectives fulfilled.
+***Take-away: Good luck!***
+
+As this manuscript stands without the benefit of peer review, it undoubtedly contains numerous imperfections. The concepts presented herein are primarily derived from widely shared community knowledge, which we have endeavored to synthesize and simplify for the benefit of newcomers to the community. Our goal is to provide a concise yet comprehensive guide that can ease the learning curve for those embarking on the journey of writing AI conference papers. If this document serves as a beacon of clarity and direction for any reader, we would consider our efforts successful. *Leaving a star will be a great encouragement to us.*
 
 ## Appendix
-
 In the Appendix, several topics are covered:
 
 [AI Paper Production and Publication](https://github.com/hzwer/WritingAIPaper?tab=readme-ov-file#ai-paper-production-and-publication): It outlines the process of paper submission, review, and publication in AI conferences.
