@@ -2,7 +2,7 @@
 
 Author: [hzwer](https://github.com/hzwer), [DingXiaoH](https://github.com/DingXiaoH)
 
-[PDF version (Google Drive)](https://drive.google.com/file/d/1hbQ8qvVPUndNRSwK2Hq6wLwh8sxapi95/view?usp=sharing) | 知乎 [1](https://zhuanlan.zhihu.com/p/593195527)-[2](https://zhuanlan.zhihu.com/p/639732057)-[3](https://zhuanlan.zhihu.com/p/627032371)｜[跃问中翻](https://yuewen.cn/share/145749938443137024?utm_source=share&utm_content=web_linkcopy&version=2) | [豆包总结](https://www.doubao.com/thread/w750d882cf0af6419) | [AI 苦力流程](https://yuewen.cn/share/145938682182021120?utm_source=share&utm_content=web_linkcopy&version=2)
+[PDF version (Google Drive)](https://drive.google.com/file/d/1hbQ8qvVPUndNRSwK2Hq6wLwh8sxapi95/view?usp=sharing) | 知乎 [1](https://zhuanlan.zhihu.com/p/593195527)-[2](https://zhuanlan.zhihu.com/p/639732057)-[3](https://zhuanlan.zhihu.com/p/627032371)｜[跃问中翻](https://yuewen.cn/share/145749938443137024?utm_source=share&utm_content=web_linkcopy&version=2) | [豆包总结](https://www.doubao.com/thread/w750d882cf0af6419)
 
 > Abstract. Crafting a research manuscript can pose significant challenges for novices, particularly when time is scarce before the deadline and the authors lack experience in academic submissions. An ill-prepared manuscript can be a source of distress for both collaborators and readers, frequently leading to rejection or necessitating substantial revisions. In this article, we'll share some tips for beginners who want to write AI conference papers. Our goal is for this article to be a guide for beginners, making it easier to share academic achievements.
 
@@ -237,7 +237,7 @@ We have listed some common negative reviews and suggested revisions (in italics)
 There are many papers that stayed on arXiv after being rejected and now have a huge impact [1](https://arxiv.org/abs/1503.02531);[2](https://arxiv.org/abs/1606.06160). Papers will be significantly improved throughout the process. If this process helps you produce a truly good paper, you can benefit from and be proud of it for many years to come.
 
 ### citation
-We found that arXiv does not accept this article. In case you need to cite it, you can use the following format.
+ArXiv does not accept this article 😂. In case you need to cite it, you can use the following format.
 ```
 @misc{WritingAIPaper2024,
     author = {Zhewei Huang and Xiaohan Ding},
