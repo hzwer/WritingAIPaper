@@ -2,7 +2,7 @@
 
 Author: [hzwer](https://github.com/hzwer), [DingXiaoH](https://github.com/DingXiaoH)
 
-[PDF version (Google Drive)](https://drive.google.com/file/d/1hbQ8qvVPUndNRSwK2Hq6wLwh8sxapi95/view?usp=sharing) | 知乎 [1](https://zhuanlan.zhihu.com/p/593195527)-[2](https://zhuanlan.zhihu.com/p/639732057)-[3](https://zhuanlan.zhihu.com/p/627032371)｜[跃问中翻](https://yuewen.cn/share/145749938443137024?utm_source=share&utm_content=web_linkcopy&version=2) | [豆包总结](https://www.doubao.com/thread/w750d882cf0af6419) | [公众号](https://mp.weixin.qq.com/s/MjeBZDV6xapuA_L6ODpVcA)
+知乎 [1](https://zhuanlan.zhihu.com/p/593195527)-[2](https://zhuanlan.zhihu.com/p/639732057)-[3](https://zhuanlan.zhihu.com/p/627032371)｜[跃问中翻](https://yuewen.cn/share/145749938443137024?utm_source=share&utm_content=web_linkcopy&version=2) | [豆包总结](https://www.doubao.com/thread/w750d882cf0af6419) | [公众号](https://mp.weixin.qq.com/s/MjeBZDV6xapuA_L6ODpVcA)
 
 > Abstract. Crafting a research manuscript can pose significant challenges for novices, particularly when time is scarce before the deadline and the authors lack experience in academic submissions. An ill-prepared manuscript can be a source of distress for both collaborators and readers, frequently leading to rejection or necessitating substantial revisions. In this article, we'll share some tips for beginners who want to write AI conference papers. Our goal is for this article to be a guide for beginners, making it easier to share academic achievements.
 
