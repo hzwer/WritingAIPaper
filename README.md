@@ -34,7 +34,7 @@ Identify the core advantages of your work and emphasize them early in your paper
 
 > A little squiggle of paint by Picasso can be as beautiful as an intricate painting by Rembrandt. —— [Novelty in Science](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143) (highly recommended for readers)
 
-***Take-away: Clearly describe the increment over previous methods and find one or two core ideas.***
+***Take-away: Clearly understand the increment over previous methods and find one or two core ideas.***
 
 When readers read papers, they seek novel insights. A good paper should have strong points that are easy to remember. You should refine your central ideas until you're confident that people will be eager to learn about them and share them widely. It is particularly worth noting that some ideas may be great, but if they lack originality, it may not be advisable to describe them in detail in the paper. When writing a paper, the focus should be on providing novel, unique, and valuable insights to attract readers' attention and inspire their interest.
 
