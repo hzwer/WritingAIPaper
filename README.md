@@ -36,7 +36,7 @@ Identify the core advantages of your work and emphasize them early in your paper
 
 ***Take-away: Clearly describe the increment over previous methods and find one or two core ideas.***
 
-Readers seek novel insights when reading papers. A good paper should have strong points that are easy to remember. Refine your central ideas until you're confident that people will be eager to learn about them and share them widely. It should be noted in particular that some ideas may be great, but if they lack originality, it is not advisable to describe them in detail in the paper.
+When readers read papers, they seek novel insights. A good paper should have strong points that are easy to remember. You should refine your central ideas until you're confident that people will be eager to learn about them and share them widely. It is particularly worth noting that some ideas may be great, but if they lack originality, it may not be advisable to describe them in detail in the paper. When writing a paper, the focus should be on providing novel, unique, and valuable insights to attract readers' attention and inspire their interest.
 
 Don't underestimate the novelty of your own work. Delve deep to uncover the underlying principles. If the ResNet paper were rewritten as: "We designed a model using a large number of $3\times3$ convolutions (inspired by VGGNet) and parallel shortcuts (simplified from GoogleNet) **based on** the former two", then it will also become a paper without novelty. The line of ResNet is to propose a problem, abstract the underlying principles, propose its own solutions and specific implementations, and verify them experimentally. This might not totally reflect [their research process](https://www.zhihu.com/question/406913672/answer/1339549216), but it effectively showcases their discoveries.
 
@@ -79,11 +79,13 @@ e. Indicate the structure of the research paper.
 
 a. Cut to the chase and don't write too much irrelevant to the paper's topic;
 
-b. Respect the work of predecessors, and affirm historical contributions before pointing out shortcomings;
+b. Dedicate more space to describing original and novel ideas;
 
-c. Knuth: *Keep the reader upper-most in your mind.*
+c. Respect the work of predecessors, and affirm historical contributions before pointing out shortcomings;
 
-d. Consider using a "page one figure" to highlight the most important aspects of the paper and catch the reader's attention.
+d. Knuth: *Keep the reader upper-most in your mind;*
+
+e. Consider using a "page one figure" to highlight the most important aspects of the paper and catch the reader's attention.
 
 ## Readability Improvement
 > "Writing endures through the ages, its merits and faults known only to the author's heart. (文章千古事，得失寸心知）" —— [Du Fu](https://en.wikipedia.org/wiki/Du_Fu)
