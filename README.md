@@ -53,7 +53,7 @@ It may also be necessary to supplement your work with additional experiments if 
 Many readers will initially assess the method's effectiveness by examining the results before deciding to read the entire paper. They'll look to see if your contribution aligns with the experimental findings. Even with strong confidence in your method's efficacy, you'll likely need additional comparative and ablation experiments. It's important to create more tables and visuals, selecting the most significant aspects to present. Honesty and objectivity are crucial; overstating claims is particularly undesirable. If concerned about overclaiming, discussing with peers is advisable.
 
 ### Write an Introduction
-With the above materials, you can start trying to write the introduction. Of course, this part will go through repeated revisions together with the main body. Regarding the structure of the introduction, we directly quote from the textbook (from [Elena](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178846/)):
+With the above materials, you can start trying to write the introduction. Regarding the structure of the introduction, we directly quote from the textbook (from [Elena](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178846/)):
 
 **Move 1. Establish a research territory**
 
@@ -86,6 +86,8 @@ c. Respect the work of predecessors, and affirm historical contributions before 
 d. Knuth: *Keep the reader upper-most in your mind;*
 
 e. Consider using a "page one figure" to highlight the most important aspects of the paper and catch the reader's attention.
+
+This part will go through repeated revisions together with the main body. As we mentioned earlier, the main body is actually an extended version of the introduction.
 
 ## Readability Improvement
 > "Writing endures through the ages, its merits and faults known only to the author's heart. (文章千古事，得失寸心知）" —— [Du Fu](https://en.wikipedia.org/wiki/Du_Fu)
