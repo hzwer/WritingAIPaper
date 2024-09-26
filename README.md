@@ -90,6 +90,8 @@ e. Consider using a "page one figure" to highlight the most important aspects of
 As we mentioned earlier, the main body is actually an extended version of the introduction. Typically, supplementing the introduction with additional experimental details forms the main body of the paper.
 
 ### Describe the Related Work
+***Take-away: The mediocre approach is to describe the correct history, while the better approach is to focus on how different methods relate to what you do.***
+
 The part may not be included in the context of the introduction. A paper typically has a separate section dedicated to discussing related work, including some background work and competing work. Find three or four topics that are most relevant to your paper, and outline the historical evolution under each topic. Do not list all the negative aspects of other techniques, but rather explain how you improve upon them. You can first write a literature review that is independent of your work. You may classify and order the previous methods (for example, a certain method is a pioneer), and at this time, it is important to pay attention to the correct discussion. If you are not confident enough, check the "related work" sections of the papers you cited once more. Finally, rewrite this section from a more appropriate angle to reflect the unique aspects of your paper. 
 
 ## Readability Improvement
