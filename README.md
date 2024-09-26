@@ -30,8 +30,6 @@ You may have interesting findings and experimental results, but you're unsure ho
 
 *Capability: you can do something that could not be done before.*
 
-***Take-away: The novel and interesting aspects of the paper should appear as early as possible.***
-
 Identify the core advantages of your work and emphasize them early in the paper. This way, readers can read the remaining parts with expectations. You can further expand the overall novelty from other aspects as well. **Novelty seems to be elusive, what is it?** Key research topics, efficient solutions, and innovative technical contributions are the primary elements that contribute to a paper's novelty. For instance, numerous early influential works of deep learning emerged from foundational model research due to their potential to impact the entire field. The RAFT/NeRF methods have attracted a large number of researchers due to their outstanding performance, and they involve a lot of engineering handling beyond their core ideas. Techniques such as "Batch Normalization" and "Residual Learning" are esteemed for their effectiveness. By emphasizing the novelty of your work, you'll be able to discern which aspects are worth the effort and which are inconsequential details.
 
 > A little squiggle of paint by Picasso can be as beautiful as an intricate painting by Rembrandt. —— [Novelty in Science](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143) (highly recommended for readers)
@@ -79,13 +77,13 @@ e. Indicate the structure of the research paper.
 
 **Additional suggestions:**
 
-a. Cut to the chase and don't write too much irrelevant to the paper's topic;
+a. Knuth: *Keep the reader upper-most in your mind;*
 
-b. Dedicate more space to describing original and novel ideas;
+b. Cut to the chase and don't write too much irrelevant to the paper's topic. The novel and interesting aspects of the paper should appear as early as possible;
 
-c. Respect the work of predecessors, and affirm historical contributions before pointing out shortcomings;
+c. Dedicate more space to describing original and novel ideas;
 
-d. Knuth: *Keep the reader upper-most in your mind;*
+d. Respect the work of predecessors, and affirm historical contributions before pointing out shortcomings;
 
 e. Consider using a "page one figure" to highlight the most important aspects of the paper and catch the reader's attention.
 
@@ -96,7 +94,9 @@ As we mentioned earlier, the main body is actually an extended version of the in
 
 > "The best writing instruction ever: Good writing is bad writing rewritten. I got it from Stephen King. Where Stephen King got it, I don't know. I'm giving it to you. You tell your students." —— [Robert Weiss](https://robweiss.faculty.biostat.ucla.edu/writing_advice_2)
 
-Next, we will mainly discuss the polishing of the details. At present, AI assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) can easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [跃问](https://yuewen.cn/chats/new) or [豆包](https://www.doubao.com/chat/). You can have the AI generate multiple versions and choose the most suitable one. When utilizing these tools, prioritize clarity over style and avoid over-polishing.
+***Take-away: The more prominent part, the more time you invest in it.***
+
+Next, we will mainly discuss the polishing of the details. At present, AI assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) can easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [跃问](https://yuewen.cn/chats/new) or [豆包](https://www.doubao.com/chat/). You can have the AI generate multiple versions and choose the most suitable one. When utilizing these tools, remember that prioritize clarity over style.
 
 Let's move on to discuss the issues that are not easy to handle automatically. We will measure the readability of papers using the following concepts: logical strength, defensibility, confusion time, and information density. Based on these concepts, some practical suggestions and techniques are described to improve the readability.
 
