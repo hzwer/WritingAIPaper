@@ -14,12 +14,7 @@ In this article, we will discuss the aspects related to writing conference paper
 
 ## Build a Paper from Scratch
 
-This section outlines writing an AI paper from scratch, covering structure, core idea, framework, results, and introduction.
-
-### The Hierarchical Structure
-***Take-away: Abstract - Introduction - Main body, which are gradually unfolded. Each part is self-complete.***
-
-The typical structure of a paper includes 1. an abstract, 2. an introduction, and 3. the main body, which encompasses sections such as related work, methodology, experiments, discussion, conclusion, and references. We can break down this structure into three levels. At each level, you should aim to convey a comprehensive research narrative. Each level serves as an expansion of the preceding one. With this understanding, let's explore how to effectively present a research story. For those who are starting out, it's advisable to focus on completing the main body of the paper first.
+This section outlines writing an AI paper from scratch, covering core idea, framework, results, introduction and related work.
 
 ### Find the Core Idea
 You may have interesting findings and experimental results, but you're unsure how to define the core theme. *The key contribution of most published papers falls into exactly one out of the following three categories (from [Nowozion](https://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-1.html)):*
@@ -41,6 +36,10 @@ When readers read papers, they seek novel insights. A good paper should have str
 Don't underestimate the novelty of your own work. Delve deep to uncover the underlying principles. If the ResNet paper were rewritten as: "We designed a model using a large number of $3\times3$ convolutions (inspired by VGGNet) and parallel shortcuts (simplified from GoogleNet) **based on** the former two", then it will also become a paper without novelty. The line of ResNet is to propose a problem, abstract the underlying principles, propose its own solutions and specific implementations, and verify them experimentally. This might not totally reflect [their research process](https://www.zhihu.com/question/406913672/answer/1339549216), but it effectively showcases their discoveries.
 
 ### Construct the Framework
+***Take-away: Abstract - Introduction - Main body, which are gradually unfolded. Each part is self-complete.***
+
+The typical structure of a paper includes 1. an abstract, 2. an introduction, and 3. the main body, which encompasses sections such as related work, methodology, experiments, discussion, conclusion, and references. We can break down this structure into three levels. At each level, you should aim to convey a comprehensive research narrative. Each level serves as an expansion of the preceding one. With this understanding, let's explore how to effectively present a research story. For those who are starting out, it's advisable to focus on completing the main body of the paper first.
+
 ***Take-away: Consider the target audience, introduce the valuable findings rather than the tortuous research process.***
 
 While adhering to the core ideas, start outlining the content you intend to present in your paper. Begin by creating a simple slide to demonstrate your research approach and achievements to your peers, colleagues, or mentors, in order to assess their understanding. It may be beneficial to intentionally seek feedback from researchers unfamiliar with your work to identify potential gaps in comprehension. Unlike the experimental process, it is advisable to emphasize valuable novelties and avoid presenting incomplete or complex aspects of your research. Researchers all understand the pain of research, but the bitter portrayal is only suitable for the postscript of the project. Continuously review and refine your presentation from the reader's perspective until it is easily understandable.
