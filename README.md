@@ -10,7 +10,7 @@ Author: [hzwer](https://github.com/hzwer), [DingXiaoH](https://github.com/DingXi
 
 > **Background.** The GPU cluster has been running for half a year, and you feel that the results are already significant. You realize that the deadline for an upcoming conference is less than a month away, yet you have only written some course assignment reports. How far in advance should the first draft be completed to avoid missing the deadline? What distinguishes a good research paper from a bad one? What should be done before starting to write? These questions plague you like a nightmare, leaving you staring at the blank Overleaf homepage. Luckily, this article is written for you. 
 
-In this article, we will discuss the aspects related to writing conference papers, with a focus on common pitfalls, catering to novices. Our article mainly consists of two parts: **[completing a paper](https://github.com/hzwer/WritingAIPaper?tab=readme-ov-file#build-a-paper-from-scratch)** and **[refining its details](https://github.com/hzwer/WritingAIPaper?tab=readme-ov-file#readability-improvement)**. We aim to provide practical guidance that will enable novices to navigate the complexities of academic writing and contribute to the field with clarity and confidence. Sincerely, we recommend the [Resource List of Writing Tips](https://vision.sjtu.edu.cn/writing.html) curated by Professor Chao Ma.
+In this article, we will discuss the aspects related to writing conference papers, with a focus on common pitfalls, catering to novices. Our article mainly consists of two parts: **[completing a paper](https://github.com/hzwer/WritingAIPaper?tab=readme-ov-file#build-a-paper-from-scratch)** and **[refining its details](https://github.com/hzwer/WritingAIPaper?tab=readme-ov-file#readability-improvement)**. We aim to provide practical guidance that will enable novices to navigate the complexities of academic writing and contribute to the field with clarity and confidence. Sincerely, we recommend the [Resource List of Writing Tips](https://vision.sjtu.edu.cn/writing.html) curated by Chao Ma.
 
 ## Build a Paper from Scratch
 
@@ -194,6 +194,7 @@ In the Appendix, several topics are covered:
 [Common Negative Review Comments](https://github.com/hzwer/WritingAIPaper/tree/main?tab=readme-ov-file#common-negative-review-comments): It lists common criticisms reviewers might have and suggestions for revision.
 
 [If the Paper Is Not Accepted](https://github.com/hzwer/WritingAIPaper/tree/main?tab=readme-ov-file#if-the-paper-is-not-accepted): It offers advice on dealing with rejection and improving the paper for future submissions.
+
 ### AI Paper Production and Publication
 
 This section mainly introduces the process of producing papers and the review process. A conference paper usually runs about eight pages in a two-column layout, or over ten pages in a single-column layout, based on the conference's specifications. Authors prepare and submit their paper along with supplementary materials like code and demo videos by the given deadline.
@@ -203,6 +204,7 @@ Provided there are no critical oversights, such as neglecting to anonymize the s
 The final acceptance outcome necessitates waiting for approximately another month, after which it will be revealed via the email system. Typically, acceptance rates range from one-sixth to one-quarter of submitted manuscripts. Authors then revise their work based on reviewer feedback before submitting the final, camera-ready version for publication. The majority of papers, however, face rejection and are returned to the authors. These authors may opt to resubmit following the previously mentioned process or decide to discontinue work on the paper. It is worth noting that most papers undergo an extensive period of refinement and revision, colloquially dubbed the "Fibonacci Submission Approach." (Recommendation: [a Chinese lecture by Boxin Shi](https://hub.baai.ac.cn/view/8659)).
 
 ### Checklist for the Last Few Hours
+- [ ] Check that various numbers are not copied incorrectly.
 - [ ] Search for question marks to check for latex errors.
 - [ ] Make sure that all charts are mentioned in the main text and that the order of mentions matches the order in which the charts appear.
 - [ ] The caption is very noticeable. Avoid grammatical errors, and it is recommended to use a period.
@@ -211,6 +213,7 @@ The final acceptance outcome necessitates waiting for approximately another mont
 - [ ] Go through all the subtitles and unify the capitalization style.
 - [ ] Confirm that there are no figures outside the main body pages.
 - [ ] Check for anonymity; you may need to delete acknowledgments.
+- [ ] **Ensure the number of pages is correct to avoid being desk rejected.**
 
 ### Common Negative Review Comments
 We have listed some common negative reviews and suggested revisions (in italics).
