@@ -14,7 +14,7 @@ In this article, we will discuss the aspects related to writing conference paper
 
 ## Build a Paper from Scratch
 
-This section outlines writing an AI paper from scratch, covering core idea, framework, results, introduction and related work.
+This section outlines writing an AI paper from scratch, covering core idea, whole framework, introduction and related work.
 
 ### Find the Core Idea
 You may have interesting findings and experimental results, but you're unsure how to define the core theme. *The key contribution of most published papers falls into exactly one out of the following three categories (from [Nowozion](https://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-1.html)):*
@@ -46,7 +46,6 @@ While adhering to the core ideas, start outlining the content you intend to pres
 
 It may also be necessary to supplement your work with additional experiments if you feel that your experimental rationale lacks rigor. At the same time, it is advisable to conduct thorough literature research, ideally identifying several papers with highly relevant topics. Consider these as potential competitors to your paper and examine them for areas of improvement. Reflect on which aspects would captivate the community and accentuate them, while minimizing the inclusion of clichéd content. 
 
-### Make the Results More Solid
 ***Take-away: Around the contribution statements, conduct a solid analysis in the result section.***
 
 Many readers will initially assess the method's effectiveness by examining the results before deciding to read the entire paper. They'll look to see if your contribution aligns with the experimental findings. Even with strong confidence in your method's efficacy, you'll likely need additional comparative and ablation experiments. It's important to create more tables and visuals, selecting the most significant aspects to present. Honesty and objectivity are crucial; overstating claims is particularly undesirable. If concerned about overclaiming, discussing with peers is advisable.
