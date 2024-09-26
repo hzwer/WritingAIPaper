@@ -92,9 +92,9 @@ As we mentioned earlier, the main body is actually an extended version of the in
 ## Readability Improvement
 > "Writing endures through the ages, its merits and faults known only to the author's heart. (文章千古事，得失寸心知）" —— [Du Fu](https://en.wikipedia.org/wiki/Du_Fu)
 
-**Good writing is bad writing that was rewritten**. Next, we will mainly discuss the polishing of the details. Recently, intelligent assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) can easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [跃问](https://yuewen.cn/chats/new) or [豆包](https://www.doubao.com/chat/). The details that can be automatically processed by tools are not included in our discussion.
+**Good writing is bad writing that was rewritten**. Next, we will mainly discuss the polishing of the details. At present, AI assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) can easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [跃问](https://yuewen.cn/chats/new) or [豆包](https://www.doubao.com/chat/). You can have the AI generate multiple versions and choose the most suitable one. When utilizing these tools, prioritize clarity over style and avoid over-polishing.
 
-This section measures the readability of papers using the following concepts: logical strength, defensibility, confusion time, and information density. Based on these concepts, some practical suggestions and techniques are described to improve the readability.
+Let's move on to discuss the issues that are not easy to handle automatically. We will measure the readability of papers using the following concepts: logical strength, defensibility, confusion time, and information density. Based on these concepts, some practical suggestions and techniques are described to improve the readability.
 
 ### Enhance Logical Strength
 ***Take-away: Do not misuse or abuse connectives.***
