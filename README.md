@@ -92,7 +92,9 @@ As we mentioned earlier, the main body is actually an extended version of the in
 ## Readability Improvement
 > "Writing endures through the ages, its merits and faults known only to the author's heart. (文章千古事，得失寸心知）" —— [Du Fu](https://en.wikipedia.org/wiki/Du_Fu)
 
-**Good writing is bad writing that was rewritten**. Next, we will mainly discuss the polishing of the details. At present, AI assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) can easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [跃问](https://yuewen.cn/chats/new) or [豆包](https://www.doubao.com/chat/). You can have the AI generate multiple versions and choose the most suitable one. When utilizing these tools, prioritize clarity over style and avoid over-polishing.
+> "The best writing instruction ever: Good writing is bad writing rewritten. I got it from Stephen King. Where Stephen King got it, I don't know. I'm giving it to you. You tell your students." —— [Robert Weiss](https://robweiss.faculty.biostat.ucla.edu/writing_advice_2)
+
+Next, we will mainly discuss the polishing of the details. At present, AI assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) can easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [跃问](https://yuewen.cn/chats/new) or [豆包](https://www.doubao.com/chat/). You can have the AI generate multiple versions and choose the most suitable one. When utilizing these tools, prioritize clarity over style and avoid over-polishing.
 
 Let's move on to discuss the issues that are not easy to handle automatically. We will measure the readability of papers using the following concepts: logical strength, defensibility, confusion time, and information density. Based on these concepts, some practical suggestions and techniques are described to improve the readability.
 
