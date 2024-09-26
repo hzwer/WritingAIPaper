@@ -87,7 +87,10 @@ d. Respect the work of predecessors, and affirm historical contributions before 
 
 e. Consider using a "page one figure" to highlight the most important aspects of the paper and catch the reader's attention.
 
-As we mentioned earlier, the main body is actually an extended version of the introduction. You need to perform multiple rounds of joint modification on the main body and the introduction.
+As we mentioned earlier, the main body is actually an extended version of the introduction. Typically, supplementing the introduction with additional experimental details forms the main body of the paper.
+
+### Describe the Related Work
+The part may not be included in the context of the introduction. A paper typically has a separate section dedicated to discussing related work, including some background work and competing work. Find three or four topics that are most relevant to your paper, and outline the historical evolution under each topic. Do not list all the negative aspects of other techniques, but rather explain how you improve upon them. You can first write a literature review that is independent of your work. You may classify and order the previous methods (for example, a certain method is a pioneer), and at this time, it is important to pay attention to the correct discussion. If you are not confident enough, check the "related work" sections of the papers you cited once more. Finally, rewrite this section from a more appropriate angle to reflect the unique aspects of your paper. 
 
 ## Readability Improvement
 > "Writing endures through the ages, its merits and faults known only to the author's heart. (文章千古事，得失寸心知）" —— [Du Fu](https://en.wikipedia.org/wiki/Du_Fu)
