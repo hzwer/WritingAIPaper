@@ -195,11 +195,11 @@ In the Appendix, several topics are covered:
 
 [AI Paper Production and Publication](https://github.com/hzwer/WritingAIPaper?tab=readme-ov-file#ai-paper-production-and-publication): It outlines the process of paper submission, review, and publication in AI conferences.
 
-[AI Conference Recommendations]: Some information of notable AI conferences that you might find useful.
-
 [Common Negative Review Comments](https://github.com/hzwer/WritingAIPaper/tree/main?tab=readme-ov-file#common-negative-review-comments): It lists common criticisms reviewers might have and suggestions for revision.
 
 [If the Paper Is Not Accepted](https://github.com/hzwer/WritingAIPaper/tree/main?tab=readme-ov-file#if-the-paper-is-not-accepted): It offers advice on dealing with rejection and improving the paper for future submissions.
+
+[AI Conference List]: Some information of notable AI conferences that you might find useful.
 
 ### Checklist for the Last Few Hours
 - [ ] Check that various numbers are not copied incorrectly.
@@ -220,23 +220,6 @@ This section mainly introduces the process of producing papers and the review pr
 Provided there are no critical oversights, such as neglecting to anonymize the submission, substantial formatting issues, or surpassing the page limit — any of which could result in an immediate rejection (known as a "desk reject") — the paper proceeds to the review phase. Following approximately two months, authors receive feedback from typically three reviewers in the form of comments and an overall score for their paper. Many of these reviewers have published work in related domains and might be cited in the submitted paper. With the initial review outcomes, authors must craft a brief rebuttal, generally one page, to address queries or provide additional findings. Roughly half of the papers are withdrawn during this rebuttal phase. Reviewers then deliberate for a week or two (commonly on a private platform) based on the rebuttal, indicating whether their concerns have been alleviated and discussing the paper's merits. Usually, reviewers align on a positive or negative stance, though occasionally, the area chair decides.
 
 The final acceptance outcome necessitates waiting for approximately another month, after which it will be revealed via the email system. Typically, acceptance rates range from one-sixth to one-quarter of submitted manuscripts. Authors then revise their work based on reviewer feedback before submitting the final, camera-ready version for publication. The majority of papers, however, face rejection and are returned to the authors. These authors may opt to resubmit following the previously mentioned process or decide to discontinue work on the paper. It is worth noting that most papers undergo an extensive period of refinement and revision, colloquially dubbed the "Fibonacci Submission Approach." (Recommendation: [a Chinese lecture by Boxin Shi](https://hub.baai.ac.cn/view/8659)).
-
-### AI Conference Recommendations
-The schedule can usually be found on [AI Conference Deadlines](https://aideadlin.es/?sub=CV,ML,NLP). The acceptance rate can be found on [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
-
-| Conference Name | Typical Submission Month | Recent Acceptance Rate |
-| --- | --- | --- |
-| IJCAI (International Joint Conference on Artificial Intelligence) | January | ~14% |
-| ICML (International Conference on Machine Learning) | January | ~27% |
-| ACL (Annual Meeting of the Association for Computational Linguistics) | January | ~23% |
-| ICCV (International Conference on Computer Vision) | March (odd years) | ~27% |
-| ECCV (European Conference on Computer Vision) | March (even years) | ~28% |
-| NeurIPS (Conference on Neural Information Processing Systems) | May | ~26% |
-| EMNLP (Conference on Empirical Methods in Natural Language Processing) | May | ~23% |
-| ICLR (International Conference on Learning Representations) | September | ~31% |
-| NAACL (North American Chapter of the Association for Computational Linguistics) | September | ~23% |
-| AAAI (Association for the Advancement of Artificial Intelligence) | September | ~24% | 
-| CVPR (Computer Vision and Pattern Recognition) | November | ~24% | 
 
 ### Common Negative Review Comments
 We have listed some common negative reviews and suggested revisions (in italics).
@@ -269,6 +252,23 @@ We have listed some common negative reviews and suggested revisions (in italics)
 > Review process is highly random. But there is one golden rule that withstands the test of time and randomness - **badly written papers get bad reviews. Period.** It doesn’t matter if the idea is good, result is good, citations are good. Not at all. Writing is critical — and this is ironic because engineers are the worst-trained writers among all disciplines in a university. You need to discipline yourself: leave time for writing, think deeply about writing, and write it over and over again till it’s as polished as you can think of. (Fei-Fei Li)
 
 There are many papers that stayed on arXiv after being rejected and now have a huge impact [1](https://arxiv.org/abs/1503.02531);[2](https://arxiv.org/abs/1907.11692);[3](https://arxiv.org/abs/1704.04861);[4](https://arxiv.org/abs/1606.06160). [Many great works have been rejected and even got extremely negative comments.](https://www.reddit.com/r/MachineLearning/comments/vywfx3/d_are_there_any_rejected_papers_that_ended_up/) The paper is merely the beginning or footnote of the work. The review process is especially painful for novices, who may be putting all their eggs in one basket. The paper will be significantly improved throughout the process. If this process helps you produce a truly good paper, you can benefit from and be proud of it for many years to come.
+
+### AI Conference List
+The schedule can usually be found on [AI Conference Deadlines](https://aideadlin.es/?sub=CV,ML,NLP). The acceptance rate can be found on [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
+
+| Conference Name | Typical Submission Month | Recent Acceptance Rate |
+| --- | --- | --- |
+| IJCAI (International Joint Conference on Artificial Intelligence) | January | ~14% |
+| ICML (International Conference on Machine Learning) | January | ~27% |
+| ACL (Annual Meeting of the Association for Computational Linguistics) | January | ~23% |
+| ICCV (International Conference on Computer Vision) | March (odd years) | ~27% |
+| ECCV (European Conference on Computer Vision) | March (even years) | ~28% |
+| NeurIPS (Conference on Neural Information Processing Systems) | May | ~26% |
+| EMNLP (Conference on Empirical Methods in Natural Language Processing) | May | ~23% |
+| ICLR (International Conference on Learning Representations) | September | ~31% |
+| NAACL (North American Chapter of the Association for Computational Linguistics) | September | ~23% |
+| AAAI (Association for the Advancement of Artificial Intelligence) | September | ~24% | 
+| CVPR (Computer Vision and Pattern Recognition) | November | ~24% | 
 
 ### citation
 ArXiv does not accept this article 😂. In case you need to cite it, you can use the following format.
