@@ -48,7 +48,7 @@ It may also be necessary to supplement your work with additional experiments if 
 
 ***Take-away: Around the contribution statements, conduct a solid analysis in the result section.***
 
-Many readers will initially assess the method's effectiveness by examining the results before deciding to read the entire paper. They'll look to see if your contribution aligns with the experimental findings. Even with strong confidence in your method's efficacy, you'll likely need additional comparative and ablation experiments. It's important to create more tables and visuals, selecting the most significant aspects to present. Honesty and objectivity are crucial; overstating claims is particularly undesirable. If concerned about overclaiming, discussing with peers is advisable.
+Many readers will initially assess the method's effectiveness by examining the results before deciding to read the entire paper. They will look to see if your contribution aligns with the experimental findings. Even with strong confidence in your method's efficacy, you will likely need additional comparative and ablation experiments. It's important to create more tables and visuals, selecting the most significant aspects to present. Honesty and objectivity are crucial; overstating claims is particularly undesirable. If concerned about overclaiming, discussing with peers is advisable.
 
 ### Write an Introduction
 With the above materials, you can start trying to write the introduction. Regarding the structure of the introduction, we directly quote from the textbook (from [Elena](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178846/)):
@@ -90,7 +90,7 @@ As we mentioned earlier, the main body is actually an extended version of the in
 ### Describe the Related Work
 ***Take-away: The mediocre approach is to describe the correct history, while the better approach is to focus on how different methods relate to what you do.***
 
-The part may not be included in the context of the introduction. A paper typically has a separate section dedicated to discussing related work, including some background work and competing work. Find three or four topics that are most relevant to your paper, and outline the historical evolution under each topic. Do not list all the negative aspects of other techniques, but rather explain how you improve upon them. You can first write a literature review that is independent of your work. You may classify and order the previous methods (for example, a certain method is a pioneer), and at this time, it is important to pay attention to the correct discussion. If you are not confident enough, check the "related work" sections of the papers you cited once more. Finally, rewrite this section from a more appropriate angle to reflect the unique aspects of your paper. 
+The part may not be included in the context of the introduction. A paper typically has a separate section dedicated to discussing related work, including some background work and competing work. Find three or four topics that are most relevant to your paper, and outline the historical evolution under each topic. Do not list all the negative aspects of other techniques, but rather explain how you improve upon them. You can first write a literature review that is independent of your work. When classifying and ordering the previous methods (for example, refer to a certain method as a pioneer), it is important to pay attention to the correctness of discussion. If you are not confident enough, check the "related work" sections of the papers you referenced. Finally, rewrite this section from a more appropriate angle to reflect the unique aspects of your paper. 
 
 ## Readability Improvement
 > "Writing endures through the ages, its merits and faults known only to the author's heart. (文章千古事，得失寸心知）" —— [Du Fu](https://en.wikipedia.org/wiki/Du_Fu)
@@ -180,6 +180,7 @@ First and foremost, avoid making mistakes. Prioritize the rigor of the paper bef
 - [ ] Place important information in prominent positions.
 - [ ] Can the text and legends in the figure be larger?
 - [ ] Can the understanding speed of tables be improved by using methods such as column division, bolding text, and deleting redundancy?
+- [ ] Can the reproducibility be improved? For example, by providing details and key code in the appendix.
 
 We will list more minor items in the [Appendix](https://github.com/hzwer/WritingAIPaper?tab=readme-ov-file#appendix).
 ## Conclusion
