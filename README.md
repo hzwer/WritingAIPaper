@@ -263,8 +263,11 @@ The schedule can usually be found on [AI Conference Deadlines](https://aideadlin
 | ACL (Annual Meeting of the Association for Computational Linguistics) | January | ~23% |
 | ICCV (International Conference on Computer Vision) | March (odd years) | ~27% |
 | ECCV (European Conference on Computer Vision) | March (even years) | ~28% |
+| ACMMM (ACM International Conference on Multimedia) | April | ~26% |
 | NeurIPS (Conference on Neural Information Processing Systems) | May | ~26% |
 | EMNLP (Conference on Empirical Methods in Natural Language Processing) | May | ~23% |
+| WACV (Winter Conference on Applications of Computer Vision) | June and August | ~45% |
+| ICASSP (International Conference on Acoustics, Speech and Signal Processing) | September | ~45% |
 | ICLR (International Conference on Learning Representations) | September | ~31% |
 | NAACL (North American Chapter of the Association for Computational Linguistics) | September | ~23% |
 | AAAI (Association for the Advancement of Artificial Intelligence) | September | ~24% | 
