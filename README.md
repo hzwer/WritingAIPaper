@@ -271,6 +271,7 @@ The schedule can usually be found on [AI Conference Deadlines](https://aideadlin
 | ICLR (International Conference on Learning Representations) | September | ~31% |
 | NAACL (North American Chapter of the Association for Computational Linguistics) | September | ~23% |
 | AAAI (Association for the Advancement of Artificial Intelligence) | September | ~24% | 
+| AISTATS (Artificial Intelligence and Statistics Conference) | October | ~28% |
 | CVPR (Computer Vision and Pattern Recognition) | November | ~24% | 
 
 ### citation
