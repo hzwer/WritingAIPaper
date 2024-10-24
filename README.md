@@ -258,21 +258,21 @@ The schedule can usually be found on [AI Conference Deadlines](https://aideadlin
 
 | Conference Name | Typical Submission Month | Recent Acceptance Rate |
 | --- | --- | --- |
-| IJCAI (International Joint Conference on Artificial Intelligence) | January | ~14% |
-| ICML (International Conference on Machine Learning) | January | ~27% |
-| ACL (Annual Meeting of the Association for Computational Linguistics) | January | ~23% |
-| ICCV (International Conference on Computer Vision) | March (odd years) | ~27% |
-| ECCV (European Conference on Computer Vision) | March (even years) | ~28% |
-| ACMMM (ACM International Conference on Multimedia) | April | ~26% |
-| NeurIPS (Conference on Neural Information Processing Systems) | May | ~26% |
-| EMNLP (Conference on Empirical Methods in Natural Language Processing) | May | ~23% |
-| WACV (Winter Conference on Applications of Computer Vision) | June and August | ~45% |
-| ICASSP (International Conference on Acoustics, Speech and Signal Processing) | September | ~45% |
-| ICLR (International Conference on Learning Representations) | September | ~31% |
-| NAACL (North American Chapter of the Association for Computational Linguistics) | September | ~23% |
-| AAAI (Association for the Advancement of Artificial Intelligence) | September | ~24% | 
-| AISTATS (Artificial Intelligence and Statistics Conference) | October | ~28% |
-| CVPR (Computer Vision and Pattern Recognition) | November | ~24% | 
+| IJCAI | January | ~14% |
+| ICML | January | ~27% |
+| ACL | January | ~23% |
+| ICCV | March (odd years) | ~27% |
+| ECCV | March (even years) | ~28% |
+| ACMMM | April | ~26% |
+| NeurIPS | May | ~26% |
+| EMNLP | May | ~23% |
+| WACV | June and August | ~45% |
+| ICASSP | September | ~45% |
+| ICLR | September | ~31% |
+| NAACL | September | ~23% |
+| AAAI | September | ~24% | 
+| AISTATS | October | ~28% |
+| CVPR | November | ~24% | 
 
 ### citation
 ArXiv does not accept this article 😂. In case you need to cite it, you can use the following format.
