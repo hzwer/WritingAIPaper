@@ -199,7 +199,7 @@ In the Appendix, several topics are covered:
 
 [If the Paper Is Not Accepted](https://github.com/hzwer/WritingAIPaper/tree/main?tab=readme-ov-file#if-the-paper-is-not-accepted): It offers advice on dealing with rejection and improving the paper for future submissions.
 
-[AI Conference List]: Some information of notable AI conferences that you might find useful.
+[AI Conference List](https://github.com/hzwer/WritingAIPaper/tree/main?tab=readme-ov-file#ai-conference-list): Some information of notable AI conferences that you might find useful.
 
 ### Checklist for the Last Few Hours
 - [ ] Check that various numbers are not copied incorrectly.
