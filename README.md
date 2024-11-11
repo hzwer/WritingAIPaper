@@ -260,7 +260,7 @@ The schedule can usually be found on [AI Conference Deadlines](https://aideadlin
 | --- | --- | --- |
 | IJCAI | January | ~14% |
 | ICML | January | ~27% |
-| ACL | January | ~23% |
+| ACL | February | ~23% |
 | ICCV/ECCV | March | ~27% |
 | BMVC | April | ~26% |
 | ACMMM | April | ~26% |
