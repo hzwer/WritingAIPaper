@@ -205,12 +205,12 @@ In the Appendix, several topics are covered:
 - [ ] Check that various numbers are not copied incorrectly.
 - [ ] Search for question marks to check for latex errors.
 - [ ] Make sure that all charts are mentioned in the main text and that the order of mentions matches the order in which the charts appear.
-- [ ] The caption is very noticeable. Avoid grammatical errors, and it is recommended to use a period.
+- [ ] The caption is very noticeable. Avoid grammatical errors, and it is recommended to use a period at the end.
 - [ ] Vectorize the charts. 
 - [ ] Check that all formulas are complete, they are easily overlooked in the editing process.
 - [ ] Go through all the subtitles and unify the capitalization style.
 - [ ] Confirm that there are no figures outside the main body pages.
-- [ ] Check for anonymity; you may need to delete acknowledgments.
+- [ ] Check for anonymity. You may need to delete acknowledgments. If you have submitted code or a demo, you must also pay great attention to anonymity.
 - [ ] **Ensure the number of pages is correct to avoid being desk rejected.**
 
 ### AI Paper Production and Publication
