@@ -1,5 +1,7 @@
 # Writing AI Conference Papers: A Handbook for Beginners
 
+**We believe that what this article needs the most is peer review, and we warmly welcome valuable suggestions in any form.**
+
 Author: [hzwer](https://github.com/hzwer), [DingXiaoH](https://github.com/DingXiaoH)
 
 知乎 [1](https://zhuanlan.zhihu.com/p/593195527)-[2](https://zhuanlan.zhihu.com/p/639732057)-[3](https://zhuanlan.zhihu.com/p/627032371)｜[跃问中翻](https://yuewen.cn/share/145749938443137024?utm_source=share&utm_content=web_linkcopy&version=2) | [豆包总结](https://www.doubao.com/thread/w750d882cf0af6419) | [公众号](https://mp.weixin.qq.com/s/MjeBZDV6xapuA_L6ODpVcA)
