@@ -35,7 +35,7 @@ When readers read papers, they seek novel insights. A good paper should have str
 
 Don't underestimate the novelty of your own work. Delve deep to uncover the underlying principles. If the ResNet paper were rewritten as: "We designed a model using a large number of $3\times3$ convolutions (inspired by VGGNet) and parallel shortcuts (simplified from GoogleNet) **based on** the former two", then it will also become a paper without novelty. The line of ResNet is to propose a problem, abstract the underlying principles, propose its own solutions and specific implementations, and verify them experimentally. This might not totally reflect [their research process](https://www.zhihu.com/question/406913672/answer/1339549216), but it effectively showcases their discoveries.
 
-***Take-away: The discovery of new phenomena is more important than performance improvements.***
+***Take-away: Discovering new phenomena and sharing new ideas matter more than performance gains.***
 
 A good number of excellent papers often show strong results in experiments. This can make people think that good results are all that matters in a paper. But actually, experimental results are just proof of new discoveries. Small improvements in results don't always mean new knowledge. When you write a paper, think first about what new things readers can learn from your work—not just about showing off better results than others.
 
