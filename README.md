@@ -266,7 +266,6 @@ The schedule can usually be found on [AI Conference Deadlines](https://aideadlin
 | --- | --- | --- |
 | IJCAI | January | ~14% |
 | ICML | January | ~27% |
-| ACL | February | ~23% |
 | ICCV/ECCV | March | ~27% |
 | BMVC | April | ~26% |
 | ACMMM | April | ~26% |
@@ -274,13 +273,14 @@ The schedule can usually be found on [AI Conference Deadlines](https://aideadlin
 | EMNLP | May | ~23% |
 | WACV | June and August | ~45% |
 | ACCV | July | ~33% |
+| AAAI | July | ~24% | 
 | ICASSP | September | ~45% |
 | ICLR | September | ~31% |
 | NAACL | September | ~23% |
-| AAAI | September | ~24% | 
 | ICRA | September | ~45% | 
 | AISTATS | October | ~28% |
 | CVPR | November | ~24% | 
+| ACL | Rolling Review | ~23% |
 
 ### citation
 ArXiv does not accept this article 😂. In case you need to cite it, you can use the following format.
