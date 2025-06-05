@@ -41,6 +41,8 @@ Don't underestimate the novelty of your own work. Delve deep to uncover the unde
 
 A good number of excellent papers often show strong results in experiments. This can make people think that good results are all that matters in a paper. But actually, experimental results are just proof of new discoveries. Small improvements in results don't always mean new knowledge. When you write a paper, think first about what new things readers can learn from your work—not just about showing off better results than others.
 
+In addition, as Kaiming He points out, researchers should focus on the future rather than solely on past "state-of-the-art." By applying Occam's Razor—seeking simple yet effective solutions—and validating research in real scenarios while forecasting experimental outcomes and future needs, researchers can reduce "overfitting" in their studies. Rather than meticulously refining experimental designs and metrics solely for immediate validation, it's more valuable to consider the long-term correctness and relevance of the work during the paper-writing process. The enduring, correct discoveries sustain their influence over time. By stripping away convoluted techniques used merely for paper publication and identifying straightforward, effective solutions, researchers increase the likelihood of their work generalizing to future scenarios.
+
 ### Construct the Framework
 ***Take-away: Abstract - Introduction - Main body, which are gradually unfolded. Each part is self-complete.***
 
@@ -150,7 +152,7 @@ Be as objective as possible and avoid exaggerating.
 
 It is recommended to directly explain the essence of a component after giving its name; for example, "We propose XXX, which is implemented with a two-layer multilayer perceptron (MLP)." If a concept is not easy to explain, it can be supplemented by referring to literature.
 
-***Take-away: Resolve  relative pronoun ambiguity.***
+***Take-away: Resolve relative pronoun ambiguity.***
 
 If it is not possible to make a long sentence completely unambiguous, it should be broken down into short sentences. A large proportion of the readership is not native speakers, and fancy sentence structures do not earn extra points.
 
