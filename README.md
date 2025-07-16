@@ -35,7 +35,7 @@ Identify the core advantages of your work and emphasize them early in the paper.
 
 When readers read papers, they seek novel insights. A good paper should have strong points that are easy to remember. You should refine your central ideas until you're confident that people will be eager to learn about them and share them widely. It is particularly worth noting that some ideas may be great, but if they lack originality, it may not be advisable to describe them in detail in the paper. When writing a paper, the focus should be on providing novel, unique, and valuable insights to attract readers' attention and inspire their interest.
 
-Don't underestimate the novelty of your own work. Delve deep to uncover the underlying principles. If the ResNet paper were rewritten as: "We designed a model using a large number of $3\times3$ convolutions (inspired by VGGNet) and parallel shortcuts (simplified from GoogleNet) **based on** the former two", then it will also become a paper without novelty. The line of ResNet is to propose a problem, abstract the underlying principles, propose its own solutions and specific implementations, and verify them experimentally. This might not totally reflect [their research process](https://www.zhihu.com/question/406913672/answer/1339549216), but it effectively showcases their discoveries.
+Don't underestimate the novelty of your own work. Delve deep to uncover the underlying principles. If the ResNet paper were rewritten as: "We designed a model using a large number of $3\times3$ convolutions (inspired by VGGNet) and parallel shortcuts (simplified from GoogleNet) **based on** the former two", then it will also become a paper without novelty. The story told by the ResNet paper is to propose a problem, abstract the underlying principles, propose its own solutions and specific implementations, and verify them experimentally. This might not totally reflect [their research process](https://www.zhihu.com/question/406913672/answer/1339549216), but it effectively showcases their discoveries.
 
 ***Take-away: Discovering new phenomena and sharing new ideas matter more than performance gains.***
 
@@ -107,7 +107,7 @@ The part may not be included in the context of the introduction. A paper typical
 
 ***Take-away: The more prominent part, the more time you invest in it.***
 
-Next, we will mainly discuss the polishing of the details. At present, AI assistants like [ChatGPT](https://www.anthropic.com/news/claude-3-5-sonnet) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) can easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [跃问](https://yuewen.cn/chats/new) or [豆包](https://www.doubao.com/chat/). You can have the AI generate multiple versions and choose the most suitable one. When utilizing these tools, remember that prioritize clarity over style.
+Next, we will mainly discuss the polishing of the details. At present, AI assistants like [ChatGPT](https://chatgpt.com) and [Claude](https://www.anthropic.com/news/claude-3-5-sonnet) can easily help authors address the basic issues in English writing. We also recommend that authors in the Chinese region use [跃问](https://yuewen.cn/chats/new) or [豆包](https://www.doubao.com/chat/). You can have the AI generate multiple versions and choose the most suitable one. When utilizing these tools, remember that prioritize clarity over style.
 
 Let's move on to discuss the issues that are not easy to handle automatically. We will measure the readability of papers using the following concepts: logical strength, defensibility, confusion time, and information density. Based on these concepts, some practical suggestions and techniques are described to improve the readability.
 
@@ -264,6 +264,8 @@ There are many papers that stayed on arXiv after being rejected and now have a h
 ### AI Conference List
 The schedule can usually be found on [AI Conference Deadlines](https://aideadlin.es/?sub=CV,ML,NLP). The acceptance rate can be found on [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
 
+Note: Acceptance rates and submission dates vary. Always check the official conference website for the most current information.
+
 | Conference Name | Typical Submission Month | Recent Acceptance Rate |
 | --- | --- | --- |
 | IJCAI | January | ~14% |
@@ -283,17 +285,3 @@ The schedule can usually be found on [AI Conference Deadlines](https://aideadlin
 | AISTATS | October | ~28% |
 | CVPR | November | ~24% | 
 | ACL | Rolling Review | ~23% |
-
-### citation
-ArXiv does not accept this article 😂. In case you need to cite it, you can use the following format.
-```
-@misc{WritingAIPaper2024,
-    author = {Zhewei Huang and Xiaohan Ding},
-    title = {Writing AI Conference Papers: A Handbook for Beginners},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/hzwer/WritingAIPaper}},
-    year = {2024},
-    month = {9},
-}
-```
